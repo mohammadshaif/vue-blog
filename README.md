@@ -1,24 +1,10 @@
-# vue-core
+# Vue-Core
 
-## Project setup
-```
-yarn install
-```
+﻿# A Dynamic Blog Site By Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# Technology
+* Vue.js
+* Vue Route
+* Dynamic Data
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
